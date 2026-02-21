@@ -13,7 +13,7 @@ A comprehensive quantitative finance project implementing **6 different VaR meth
 
 This project implements a **production-grade risk assessment system** for portfolio management, featuring multiple Value at Risk (VaR) calculation methodologies, stress testing, and risk decomposition analysis.
 
-**Live Notebook:** [View on nbviewer](https://nbviewer.org/github/yourusername/portfolio-risk-var/blob/main/notebook/Portfolio_Risk_VaR_Analysis.ipynb) *(Update link after pushing to GitHub)*
+**Live Notebook:** [View on nbviewer](https://github.com/Rozy-cozy/portfolio-risk-var/blob/main/Portfolio_Risk_VaR_Analysis.ipynb)
 
 ---
 
